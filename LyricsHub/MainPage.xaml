@@ -47,6 +47,12 @@
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ScrollViewer HorizontalAlignment="Left" Height="587" Margin="10,10,0,0" VerticalAlignment="Top" Width="436">
+                <StackPanel Height="557" Width="396">
+                    <Button x:Name="btnLyrics" Content="Lyrics" Click="btnLyrics_Click"/>
+                    <Button x:Name="btnAbout" Content="About" Click="btnAbout_Click"/>
+                </StackPanel>
+            </ScrollViewer>
 
         </Grid>
 

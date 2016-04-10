@@ -22,6 +22,17 @@ namespace LyricsHub
             //BuildLocalizedApplicationBar();
         }
 
+        private void btnLyrics_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/PageLyrics.xaml", UriKind.Relative));
+        }
+
+        private void btnAbout_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/PageAbout.xaml", UriKind.Relative));
+        }
+
+
         // Sample code for building a localized ApplicationBar
         //private void BuildLocalizedApplicationBar()
         //{
