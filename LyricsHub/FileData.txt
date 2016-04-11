@@ -1,3 +1,6 @@
 btnSong1;Ahasata Soduruda;Ahasata Soduruda.PNG
 btnSong2;Kumariyaka Pa;Kumariyaka Pa.PNG
 btnSong3;Ananthayata Yana;Ananthayata Yana.PNG
+btnSong4;Kala Wawata Wahi Wahala;Kala Wawata Wahi Wahala.PNG
+btnSong5;Maga Balana Langa Hindina;Maga Balana Langa Hindina.PNG
+btnSong6;Susum Lamin Mage Diha Amanapen Balai;Susum Lamin Mage Diha Amanapen Balai.PNG
